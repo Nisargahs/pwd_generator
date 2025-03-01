@@ -1,0 +1,17 @@
+.box1{
+    border: 2px solid darkblue;
+    background-color: aqua;
+    padding:20px ;
+    margin: auto;
+    height:100px ;
+    width:100px ;
+}
+
+.box1{
+    border: 2px solid papayawhip;
+    background-color: aqua;
+    padding:20px ;
+    margin: auto;
+    height:100px ;
+    width:100px ;
+}

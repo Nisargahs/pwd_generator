@@ -1,0 +1,6 @@
+customername=input("enter the name\n")
+price=float(input("enter the price\n"))
+quantity=float(input("enter the quantity\n"))
+#print("{} purchased {} of price{} and total amount is{}".format(customername,quantity,price,quantity*price))
+#print(f"{customername} purchased {price} of {quantity} and total amount is{quantity*price}")
+print(customername+"purchased"+str(quantity)+"of"+str(price)+"total is"+str(quantity*price))
